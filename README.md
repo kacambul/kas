@@ -1,2 +1,7 @@
-# kas
-ni wiem bo mi nie dali
+# Otter Pop
+
+The world's greatest Jekyll theme.
+
+Example: <http://tybenz.com>
+
+![](http://jekyllthemes.org/thumbnails/otter-pop.png)
